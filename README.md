@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dir2alex. Alex for the irl name.
 - 👀 I’m interested in art and programming. 
-- 🌱 I’m currently learning c# and python.
-- 💞️ ---
+- 🌱 I’m currently unity.
+- 💞️ why do you wanna know?
 - 📫 i have discord <It's yo boi alex#1599> and twitter @trashh_chan 
 
 <!---
